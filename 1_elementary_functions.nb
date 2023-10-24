@@ -1006,7 +1006,7 @@ Cell[BoxData[
 }, Open  ]]
 },
 WindowSize->{720, 762},
-WindowMargins->{{0, Automatic}, {Automatic, 0}},
+WindowMargins->{{Automatic, 0}, {Automatic, 0}},
 FrontEndVersion->"13.3 for Linux x86 (64-bit) (July 24, 2023)",
 StyleDefinitions->"Default.nb",
 ExpressionUUID->"71ec25bf-5dc9-471d-b596-5d7dcf8ca9da"
